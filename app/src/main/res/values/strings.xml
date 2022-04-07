@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LifeCycleOfAndroidComponents</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_message">Send message</string>
+    <string name="this_is_senderfragment">This is SenderFragment</string>
+    <string name="read">Read</string>
+    <string name="your_text">Your text</string>
+    <string name="this_is_recieverfragment">This is RecieverFragment</string>
+</resources>
